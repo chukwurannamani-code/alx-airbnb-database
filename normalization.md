@@ -1,0 +1,3 @@
+- I have taken time to ensure that there are no lists in my table so no field in the tables have a list in them
+- I have ensured that there are no repititions i.e. I dont have username in the properties table since I only need the user_id to avoid multiple updates
+- I have also ensured that every field depends on the full primary key and in this case, my primary key are single and not composite
